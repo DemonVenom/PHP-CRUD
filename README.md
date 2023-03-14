@@ -8,5 +8,5 @@ Code snippet demonstrating create/read/update/delete database knowledge and user
 
 ## **DEMO SCREENSHOTS** 
 
-![create read update and delete screenshot demo image](https://github.com/DemonVenom/PHP-Login/blob/main/lab10_demo.gif)
+![create read update and delete screenshot demo image](https://github.com/DemonVenom/PHP-CRUD/blob/main/lab10_demo.gif)
 
